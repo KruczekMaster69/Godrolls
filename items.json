@@ -1,0 +1,395 @@
+[
+  {
+    "name": "Wraith",
+    "image": "weapons/wraith.png",
+    "perksImage": "perks/Wraith.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 13,
+      "efficient": 30,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Crankshot",
+    "image": "weapons/crankshot.png",
+    "perksImage": "perks/crankshot.JPG",
+    "type": "weapons",
+    "materials": {
+      "blast_powder": 15,
+      "efficient": 30,
+      "apc": 1,
+      "brightcore": 11
+    }
+  },
+  {
+    "name": "Candy Corn LMG",
+    "image": "weapons/candy.png",
+    "perksImage": "perks/Candy_Corn_LMG.JPG",
+    "type": "weapons",
+    "materials": {
+      "sunbeam": 11,
+      "efficient": 30,
+      "quartz": 13,
+      "apc": 1
+    }
+  },
+  {
+    "name": "Lead Sled",
+    "image": "weapons/lead.png",
+    "perksImage": "perks/Lead_Sled.JPG",
+    "type": "weapons",
+    "materials": {
+      "planks": 8,
+      "oxidized": 36,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Ceiling Gas Trap",
+    "image": "weapons/gasTrap.png",
+    "perksImage": "perks/Ceiling_Gas_Trap.JPG",
+    "type": "traps",
+    "materials": {
+      "nabs": 11,
+      "herbs": 7,
+      "oxidized": 2,
+      "bacon": 1
+    }
+  },
+  {
+    "name": "Ol' Betsy",
+    "image": "weapons/betsy.png",
+    "perksImage": "perks/Ol'Betsy.JPG",
+    "type": "weapons",
+    "materials": {
+      "sunbeam": 11,
+      "efficient": 30,
+      "quartz": 13,
+      "apc": 1
+    }
+  },
+  {
+    "name": "Stalwart Squire",
+    "image": "weapons/squire.png",
+    "perksImage": "perks/Stalwart_Squire.JPG",
+    "type": "weapons",
+    "materials": {
+      "planks": 7,
+      "oxidized": 30,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Hydra",
+    "image": "weapons/hydra.png",
+    "perksImage": "perks/Hydra.JPG",
+    "type": "weapons",
+    "materials": {
+      "sunbeam": 11,
+      "efficient": 30,
+      "quartz": 13,
+      "apc": 1
+    }
+  },
+  {
+    "name": "Boom Bow",
+    "image": "weapons/boomBow.png",
+    "perksImage": "perks/Boom_Bow.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 13,
+      "carved": 30,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Mercury LMG",
+    "image": "weapons/mercuryLMG.png",
+    "perksImage": "perks/Mercury_LMG.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 7,
+      "efficient": 24,
+      "apc": 1,
+      "brightcore": 8,
+      "batteries": 15
+    }
+  },
+  {
+    "name": "Jack-O-Launcher",
+    "image": "weapons/jacko.png",
+    "perksImage": "perks/Jack_o_Launcher.JPG",
+    "type": "weapons",
+    "materials": {
+      "blast_powder": 15,
+      "efficient": 12,
+      "brightcore": 3
+    }
+  },
+  {
+    "name": "Yeoman",
+    "image": "weapons/yeoman.png",
+    "perksImage": "perks/Yeoman.JPG",
+    "type": "weapons",
+    "materials": {
+      "sunbeam": 11,
+      "efficient": 30,
+      "quartz": 13,
+      "apc": 1
+    }
+  },
+  {
+    "name": "Deciblaster",
+    "image": "weapons/deciblaster.png",
+    "perksImage": "perks/Deciblaster.JPG",
+    "type": "weapons",
+    "materials": {
+      "blast_powder": 15,
+      "efficient": 12,
+      "brightcore": 3
+    }
+  },
+  {
+    "name": "Founder's Revolt",
+    "image": "weapons/revolt.png",
+    "perksImage": "perks/Founder's_Revolt.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 10,
+      "carved": 24,
+      "gizmo": 2,
+      "sunbeam": 8
+    }
+  },
+  {
+    "name": "Ghost Pistol",
+    "image": "weapons/ghostPistol.png",
+    "perksImage": "perks/Ghost_Pistol.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 13,
+      "carved": 30,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Pulsar 9000",
+    "image": "weapons/pulsar.png",
+    "perksImage": "perks/Pulsar_9000.JPG",
+    "type": "weapons",
+    "materials": {
+      "planks": 7,
+      "oxidized": 30,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Hot Mix",
+    "image": "weapons/hotMix.png",
+    "perksImage": "perks/Hot_Mix.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 13,
+      "carved": 30,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Earsplitter",
+    "image": "weapons/earsplitter.png",
+    "perksImage": "perks/Earsplitter.JPG",
+    "type": "weapons",
+    "materials": {
+      "planks": 8,
+      "oxidized": 36,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Woofer",
+    "image": "weapons/woofer.png",
+    "perksImage": "perks/Woofer.JPG",
+    "type": "weapons",
+    "materials": {
+      "planks": 7,
+      "oxidized": 30,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Surround Pound",
+    "image": "weapons/surroundPound.png",
+    "perksImage": "perks/Surround_Pound.JPG",
+    "type": "weapons",
+    "materials": {
+      "planks": 8,
+      "oxidized": 36,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Spectral Blade",
+    "image": "weapons/spectralBlade.png",
+    "perksImage": "perks/Spectral_Blade.JPG",
+    "type": "weapons",
+    "materials": {
+      "rough": 8,
+      "efficient": 36,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Vindertech Slicer",
+    "image": "weapons/vindertechSlicer.png",
+    "perksImage": "perks/Vindertech_Slicer.JPG",
+    "type": "weapons",
+    "materials": {
+      "rough": 8,
+      "efficient": 36,
+      "apc": 1,
+      "sunbeam": 8,
+      "batteries": 20
+    }
+  },
+  {
+    "name": "Bundlebuss",
+    "image": "weapons/bundlebuss.png",
+    "perksImage": "perks/Bundlebuss.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 13,
+      "efficient": 30,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Blastotron Mini",
+    "image": "weapons/blastotronMini.png",
+    "perksImage": "perks/Blastotron_Mini.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 13,
+      "carved": 30,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Pain Train",
+    "image": "weapons/painTrain.png",
+    "perksImage": "perks/Pain_Train.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 13,
+      "efficient": 30,
+      "apc": 1,
+      "sunbeam": 11
+    }
+  },
+  {
+    "name": "Silenced Specter",
+    "image": "weapons/silencedSpecter.png",
+    "perksImage": "perks/Silenced_Specter.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 13,
+      "sleek": 30,
+      "apc": 1,
+      "shadow": 11
+    }
+  },
+  {
+    "name": "Hemlock",
+    "image": "weapons/hemlock.png",
+    "perksImage": "perks/Hemlock.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 13,
+      "sleek": 30,
+      "apc": 1,
+      "shadow": 11
+    }
+  },
+  {
+    "name": "Floor Launcher",
+    "image": "weapons/floorLauncher.png",
+    "perksImage": "perks/Floor_Launcher.JPG",
+    "type": "traps",
+    "materials": {
+      "planks": 8,
+      "rough": 7,
+      "char": 2
+    }
+  },
+  {
+    "name": "Obliterator",
+    "image": "weapons/obliterator.png",
+    "perksImage": "perks/Obliterator.JPG",
+    "type": "weapons",
+    "materials": {
+      "quartz": 13,
+      "sleek": 30,
+      "apc": 1,
+      "shadow": 11
+    }
+  },
+  {
+    "name": "The Baron",
+    "image": "weapons/baron.png",
+    "perksImage": "perks/Baron.JPG",
+    "type": "weapons",
+    "materials": {
+      "planks": 25,
+      "peaky": 36,
+      "apc": 1,
+      "obsidian": 11
+    }
+  },
+  {
+    "name": "Ceiling Electric Field",
+    "image": "weapons/ceilingElectricField.png",
+    "perksImage": "perks/Ceiling_Electric_Field.JPG",
+    "type": "traps",
+    "materials": {
+      "nabs": 10,
+      "rough": 3,
+      "batteries": 2,
+      "char": 2
+    }
+  },
+  {
+    "name": "Sound Wall",
+    "image": "weapons/soundWall.png",
+    "perksImage": "perks/Sound_Wall.JPG",
+    "type": "traps",
+    "materials": {
+      "rough": 9,
+      "quartz": 3,
+      "efficient": 5
+    }
+  },
+  {
+    "name": "Wooden Floor Spikes",
+    "image": "weapons/floorSpikes.png",
+    "perksImage": "perks/Blue_Spikes.JPG",
+    "type": "traps",
+    "materials": {
+      "planks": 6,
+      "duct": 1,
+      "peaky": 2
+    }
+  }
+]

@@ -1,0 +1,104 @@
+body{
+    overflow-y: scroll;
+    }
+    
+
+#header{
+    background-image: url("perks/bg_header.jpg");
+    min-height: 200px;
+    background-size: initial;
+}
+
+.card{
+    transition: 0.3s;
+    margin: 6px;
+}
+.card:hover{
+    border: 1px solid rgb(56, 1, 128);
+    transition: 0.3s;
+    background-color: rgba(56, 1, 128, 0.2);
+}
+
+.ImageViewer {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.ImageViewer.is-active {
+    display: flex;
+}
+
+.spoiler {
+    display: none;
+}
+
+.spoiler.is-active {
+    display: flex;
+}
+
+.categoryButton {
+    padding: 20px;
+    cursor: pointer;
+}
+
+.categoryButton.is-active {
+    background: rgba(56, 1, 128, 0.45) !important;
+    border: 1px solid rgb(56, 1, 128);
+}
+
+.categoryButton:hover{
+    background-color: rgba(56, 1, 128, 0.2);
+}
+
+h1:hover, .card-text:hover{
+cursor: default;
+}
+
+.Materials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.Materials .Materials_material {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 8px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #000;
+}
+
+.Materials .Materials_material .material_image {
+    width: 64px;
+}
+
+.btn-secondary, .btn-secondary:hover{
+    background: rgba(56, 1, 128, 0.45) !important;
+    border: 1px solid rgb(56, 1, 128);
+    min-width: 37px;
+}
+
+.btn-primary{
+    background: rgba(51, 2, 116, 0.767) !important;
+    border: none;
+    margin-top: 8px;
+}
+
+.categoryButton{
+    margin-bottom: 10px;
+}
+
+.weapons{
+    padding: 0 !important;
+}
