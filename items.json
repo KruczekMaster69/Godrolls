@@ -1,7 +1,7 @@
 [
   {
     "name": "Wraith",
-    "image": "weapons/wraith.png",
+    "image": "weapons2/wraith.png",
     "perksImage": "perks/Wraith.JPG",
     "type": "weapons",
     "materials": {
@@ -13,7 +13,7 @@
   },
   {
     "name": "Crankshot",
-    "image": "weapons/crankshot.png",
+    "image": "weapons2/crankshot.png",
     "perksImage": "perks/crankshot.JPG",
     "type": "weapons",
     "materials": {
@@ -25,7 +25,7 @@
   },
   {
     "name": "Candy Corn LMG",
-    "image": "weapons/candy2.png",
+    "image": "weapons2/candy2.png",
     "perksImage": "perks/Candy_Corn_LMG.JPG",
     "type": "weapons",
     "materials": {
@@ -37,7 +37,7 @@
   },
   {
     "name": "Lead Sled",
-    "image": "weapons/lead.png",
+    "image": "weapons2/lead.png",
     "perksImage": "perks/Lead_Sled.JPG",
     "type": "weapons",
     "materials": {
@@ -49,7 +49,7 @@
   },
   {
     "name": "Ceiling Gas Trap",
-    "image": "weapons/gasTrap.png",
+    "image": "weapons2/gasTrap.png",
     "perksImage": "perks/Ceiling_Gas_Trap.JPG",
     "type": "traps",
     "materials": {
@@ -61,7 +61,7 @@
   },
   {
     "name": "Ol' Betsy",
-    "image": "weapons/betsy.png",
+    "image": "weapons2/betsy.png",
     "perksImage": "perks/Ol'Betsy.JPG",
     "type": "weapons",
     "materials": {
@@ -73,7 +73,7 @@
   },
   {
     "name": "Stalwart Squire",
-    "image": "weapons/squire.png",
+    "image": "weapons2/squire.png",
     "perksImage": "perks/Stalwart_Squire.JPG",
     "type": "weapons",
     "materials": {
@@ -85,7 +85,7 @@
   },
   {
     "name": "Hydra",
-    "image": "weapons/hydra.png",
+    "image": "weapons2/hydra.png",
     "perksImage": "perks/Hydra.JPG",
     "type": "weapons",
     "materials": {
@@ -97,7 +97,7 @@
   },
   {
     "name": "Boom Bow",
-    "image": "weapons/boomBow.png",
+    "image": "weapons2/boomBow.png",
     "perksImage": "perks/Boom_Bow.JPG",
     "type": "weapons",
     "materials": {
@@ -109,7 +109,7 @@
   },
   {
     "name": "Mercury LMG",
-    "image": "weapons/mercuryLMG.png",
+    "image": "weapons2/mercuryLMG.png",
     "perksImage": "perks/Mercury_LMG.JPG",
     "type": "weapons",
     "materials": {
@@ -122,7 +122,7 @@
   },
   {
     "name": "Jack-O-Launcher",
-    "image": "weapons/jacko.png",
+    "image": "weapons2/jacko.png",
     "perksImage": "perks/Jack_o_Launcher.JPG",
     "type": "weapons",
     "materials": {
@@ -133,7 +133,7 @@
   },
   {
     "name": "Yeoman",
-    "image": "weapons/yeoman.png",
+    "image": "weapons2/yeoman.png",
     "perksImage": "perks/Yeoman.JPG",
     "type": "weapons",
     "materials": {
@@ -145,7 +145,7 @@
   },
   {
     "name": "Deciblaster",
-    "image": "weapons/deciblaster.png",
+    "image": "weapons2/deciblaster.png",
     "perksImage": "perks/Deciblaster.JPG",
     "type": "weapons",
     "materials": {
@@ -156,7 +156,7 @@
   },
   {
     "name": "Founder's Revolt",
-    "image": "weapons/revolt.png",
+    "image": "weapons2/revolt.png",
     "perksImage": "perks/Founder's_Revolt.JPG",
     "type": "weapons",
     "materials": {
@@ -168,7 +168,7 @@
   },
   {
     "name": "Ghost Pistol",
-    "image": "weapons/ghostPistol.png",
+    "image": "weapons2/ghostPistol.png",
     "perksImage": "perks/Ghost_Pistol.JPG",
     "type": "weapons",
     "materials": {
@@ -180,7 +180,7 @@
   },
   {
     "name": "Pulsar 9000",
-    "image": "weapons/pulsar.png",
+    "image": "weapons2/pulsar.png",
     "perksImage": "perks/Pulsar_9000.JPG",
     "type": "weapons",
     "materials": {
@@ -192,7 +192,7 @@
   },
   {
     "name": "Hot Mix",
-    "image": "weapons/hotMix.png",
+    "image": "weapons2/hotMix.png",
     "perksImage": "perks/Hot_Mix.JPG",
     "type": "weapons",
     "materials": {
@@ -204,7 +204,7 @@
   },
   {
     "name": "Earsplitter",
-    "image": "weapons/earsplitter.png",
+    "image": "weapons2/earsplitter.png",
     "perksImage": "perks/Earsplitter.JPG",
     "type": "weapons",
     "materials": {
@@ -216,7 +216,7 @@
   },
   {
     "name": "Woofer",
-    "image": "weapons/woofer.png",
+    "image": "weapons2/woofer.png",
     "perksImage": "perks/Woofer.JPG",
     "type": "weapons",
     "materials": {
@@ -228,7 +228,7 @@
   },
   {
     "name": "Surround Pound",
-    "image": "weapons/surroundPound.png",
+    "image": "weapons2/surroundPound.png",
     "perksImage": "perks/Surround_Pound.JPG",
     "type": "weapons",
     "materials": {
@@ -240,7 +240,7 @@
   },
   {
     "name": "Spectral Blade",
-    "image": "weapons/spectralBlade.png",
+    "image": "weapons2/spectralBlade.png",
     "perksImage": "perks/Spectral_Blade.JPG",
     "type": "weapons",
     "materials": {
@@ -252,7 +252,7 @@
   },
   {
     "name": "Vindertech Slicer",
-    "image": "weapons/vindertechSlicer.png",
+    "image": "weapons2/vindertechSlicer.png",
     "perksImage": "perks/Vindertech_Slicer.JPG",
     "type": "weapons",
     "materials": {
@@ -265,7 +265,7 @@
   },
   {
     "name": "Bundlebuss",
-    "image": "weapons/bundlebuss.png",
+    "image": "weapons2/bundlebuss.png",
     "perksImage": "perks/Bundlebuss.JPG",
     "type": "weapons",
     "materials": {
@@ -277,7 +277,7 @@
   },
   {
     "name": "Blastotron Mini",
-    "image": "weapons/blastotronMini.png",
+    "image": "weapons2/blastotronMini.png",
     "perksImage": "perks/Blastotron_Mini.JPG",
     "type": "weapons",
     "materials": {
@@ -289,7 +289,7 @@
   },
   {
     "name": "Pain Train",
-    "image": "weapons/painTrain.png",
+    "image": "weapons2/painTrain.png",
     "perksImage": "perks/Pain_Train.JPG",
     "type": "weapons",
     "materials": {
@@ -301,7 +301,7 @@
   },
   {
     "name": "Silenced Specter",
-    "image": "weapons/silencedSpecter.png",
+    "image": "weapons2/silencedSpecter.png",
     "perksImage": "perks/Silenced_Specter.JPG",
     "type": "weapons",
     "materials": {
@@ -313,7 +313,7 @@
   },
   {
     "name": "Hemlock",
-    "image": "weapons/hemlock.png",
+    "image": "weapons2/hemlock.png",
     "perksImage": "perks/Hemlock.JPG",
     "type": "weapons",
     "materials": {
@@ -325,7 +325,7 @@
   },
   {
     "name": "Floor Launcher",
-    "image": "weapons/floorLauncher.png",
+    "image": "weapons2/floorLauncher.png",
     "perksImage": "perks/Floor_Launcher.JPG",
     "type": "traps",
     "materials": {
@@ -336,7 +336,7 @@
   },
   {
     "name": "Obliterator",
-    "image": "weapons/obliterator.png",
+    "image": "weapons2/obliterator.png",
     "perksImage": "perks/Obliterator.JPG",
     "type": "weapons",
     "materials": {
@@ -348,7 +348,7 @@
   },
   {
     "name": "The Baron",
-    "image": "weapons/baron.png",
+    "image": "weapons2/baron.png",
     "perksImage": "perks/Baron.JPG",
     "type": "weapons",
     "materials": {
@@ -360,7 +360,7 @@
   },
   {
     "name": "Ceiling Electric Field",
-    "image": "weapons/ceilingElectricField.png",
+    "image": "weapons2/ceilingElectricField.png",
     "perksImage": "perks/Ceiling_Electric_Field.JPG",
     "type": "traps",
     "materials": {
@@ -372,7 +372,7 @@
   },
   {
     "name": "Sound Wall",
-    "image": "weapons/soundWall.png",
+    "image": "weapons2/soundWall.png",
     "perksImage": "perks/Sound_Wall.JPG",
     "type": "traps",
     "materials": {
@@ -383,7 +383,7 @@
   },
   {
     "name": "Wooden Floor Spikes",
-    "image": "weapons/floorSpikes.png",
+    "image": "weapons2/floorSpikes.png",
     "perksImage": "perks/Blue_Spikes.JPG",
     "type": "traps",
     "materials": {
