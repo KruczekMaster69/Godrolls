@@ -25,7 +25,7 @@
   },
   {
     "name": "Candy Corn LMG",
-    "image": "weapons/candy.png",
+    "image": "weapons/candy2.png",
     "perksImage": "perks/Candy_Corn_LMG.JPG",
     "type": "weapons",
     "materials": {
